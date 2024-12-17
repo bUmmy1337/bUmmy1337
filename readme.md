@@ -1,3 +1,4 @@
+![frierenNfern](https://github.com/bUmmy1337/bUmmy1337/blob/main/Untitled(1).png?raw=true)
 <h1 align="center">Hi 👋, I'm bUmmy</h1>
 <h3 align="center">Random Dude From Russia</h3>
 
