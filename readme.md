@@ -3,9 +3,9 @@
 </p>
 <h1 align="center">Hi 👋, I'm bUmmy</h1>
 
-- 🔭 I’m currently working at [CatShade STD](https://modrinth.com/organization/catshade)
+- 🔭 I’m currently working in [CatShade STD](https://modrinth.com/organization/catshade)
 
-- 👨‍💻 All of my projects are available at [https://modrinth.com/user/bUmmy1337](https://modrinth.com/user/bUmmy1337)
+- 👨‍💻 All of my projects are available at [Modrinth](https://modrinth.com/user/bUmmy1337) and [Github Repos](https://github.com/bUmmy1337?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
