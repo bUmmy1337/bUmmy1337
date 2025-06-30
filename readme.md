@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm bUmmy</h1>
 <h3 align="center">Random Dude From Russia</h3>
 
-- 🔭 I’m currently working on [Circle Minecraft](https://discord.gg/bvJKUEQxXn)
+- 🔭 I’m currently working at [CatShade STD](https://modrinth.com/organization/catshade)
 
 - 👨‍💻 All of my projects are available at [https://modrinth.com/user/bUmmy1337](https://modrinth.com/user/bUmmy1337)
 
